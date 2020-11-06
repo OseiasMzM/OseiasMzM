@@ -11,7 +11,7 @@ About me
 - :seedling: Always looking to learn about new technologies.
 - :rocket: I try to: Go beyond and push the bounds
 
-#### I'm also in 
+
 
 
 #### Knowledge
@@ -23,6 +23,8 @@ About me
 [![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
 [![ReactNative Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+
+
 
 
 
