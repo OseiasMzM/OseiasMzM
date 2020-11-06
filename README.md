@@ -7,7 +7,7 @@
 About me
 
 - 🔭 Watching the universe... where are we going
-- :rocket: Learning everyday, currently learning Javascript, React Native etc...
+- :bulb: Learning everyday, currently learning Javascript, React Native etc...
 - :seedling: Always looking to learn about new technologies.
 - :rocket: I try to: Go beyond and push the bounds
 
