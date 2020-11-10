@@ -6,7 +6,7 @@
 
 About me
 
-- 🔭 Watching the universe... where are we going
+- 🔭 Watching the universe... “Somewhere, something incredible is waiting to be known.” - Carl Sagan
 - :bulb: Learning everyday, currently learning Javascript, React Native etc...
 - :seedling: Always looking to learn about new technologies.
 - :rocket: I try to: Go beyond and push the bounds
