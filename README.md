@@ -6,8 +6,8 @@
 
 About me
 
-- 🔭 Watching the universe... “Somewhere, something incredible is waiting to be known.” - Carl Sagan
-- :bulb: Learning everyday, currently learning Javascript, React Native etc...
+- 🔭 “Somewhere, something incredible is waiting to be known.” - Carl Sagan
+- :bulb: Learning everyday, currently learning Javascript, React Native, FastApi, Flaks, Angular, TypeScript  etc...
 - :seedling: Always looking to learn about new technologies.
 - :rocket: I try to: Go beyond and push the bounds
 
