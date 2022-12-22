@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Oseias%20Mozdzen-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/os%C3%A9ias-mozdzen-martins-a3449b1b8/)](https://www.linkedin.com/in/os%C3%A9ias-mozdzen-martins-a3449b1b8/)
 [![Ubuntu Badge](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)]()
-[![Linkedin Badge](https://img.shields.io/badge/-Instagram-%236747c7.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oseiasmartins_/) 
 
 About me
 
